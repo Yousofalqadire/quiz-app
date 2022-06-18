@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="correct_text">Correct</string>
+    <string name="incorrect_text">Incorrect</string>
+    <string name="toast_correct_text">0/10</string>
+    <string name="toast_incorrect_text">Great !</string>
+    <string name="first_score_text">Not Good !</string>
+   <string name="q1">The earth is the fourth planet from the sun.</string> <!-- false-->
+    <string name="q2">The planet Venus has no moons.</string> <!-- true-->
+    <string name="q3">Jupiter is composed mostly of iron.</string> <!-- false-->
+    <string name="q4">The sun is a star of average size.</string> <!-- true-->
+    <string name="q5">A lunar eclipse occurs when the sun passes.</string> <!-- false-->
+    <string name="q6">A lunar eclipse occurs when the sun passes.</string> <!-- false-->
+    <string name="q7">The national flag of America has 51 stars.</string> <!-- true-->
+    <string name="q8">The capital of Spain is Madrid.</string> <!-- true-->
+    <string name="q9">Ears are responsible for smelling</string><!-- false-->
+    <string name="q10">Butterflies are not birds.</string><!-- true-->
+
+</resources>
